@@ -13,3 +13,5 @@ Excel checklist and progress tracker included under `excel_trackers/`
 
 ## 🎯 Goal
 To transition into a GenAI/Data Engineering hybrid role by building hands-on projects and showcasing my learning.
+
+![Banner](https://github.com/SadaShiva-star/genai-journey/blob/main/image.png?raw=true)
